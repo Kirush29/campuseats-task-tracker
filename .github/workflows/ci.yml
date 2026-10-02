@@ -15,3 +15,4 @@ jobs:
  - name: Basic project check
  run: |
  echo "Running CI for CampusEats Task Tracker"
+ test -f README.md && echo "README found"

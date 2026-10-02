@@ -14,4 +14,4 @@ jobs:
  run: ls -la
  - name: Basic project check
  run: |
- echo "Running CI for CampusEats Task Tracke
+ echo "Running CI for CampusEats Task Tracker"
